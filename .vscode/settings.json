@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "*.ctp": "html",
+        "*.cjson": "jsonc",
+        "*.wxss": "css",
+        "*.wxs": "javascript",
+        "*.jl": "json",
+        "vector": "cpp",
+        "iomanip": "cpp",
+        "cmath": "cpp",
+        "ostream": "cpp",
+        "new": "cpp",
+        "string": "cpp",
+        "fstream": "cpp",
+        "istream": "cpp",
+        "streambuf": "cpp"
+    }
+}
